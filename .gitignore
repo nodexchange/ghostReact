@@ -3,4 +3,3 @@ assets/js
 .DS_Store
 npm-debug.log
 build
-src/info.json
