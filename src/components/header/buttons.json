@@ -1,0 +1,22 @@
+[
+  {
+    "name": "projects",
+    "url": "/projects"
+  },
+  {
+    "name": "dev blog",
+    "url": "/devblog"
+  },
+  {
+    "name": "blog",
+    "url": "/blog"
+  },
+  {
+    "name": "about",
+    "url": "/about"
+  },
+  {
+    "name": "now",
+    "url": "/now"
+  }
+]
